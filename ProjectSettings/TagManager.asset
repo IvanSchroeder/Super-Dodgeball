@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ball
+  - LevelCenter
+  - MainCanvas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Walls
+  - MovementColliders
+  - Ball
+  - Neutral
+  - TeamOne
+  - TeamTwo
+  - TeamThree
+  - TeamFour
+  - AI
+  - RenderOutput
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 1334862707
+    locked: 0
+  - name: Foreground
+    uniqueID: 3075126907
+    locked: 0
+  - name: Ceiling
+    uniqueID: 1117254295
+    locked: 0
+  - name: UI
+    uniqueID: 3713924417
+    locked: 0

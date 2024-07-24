@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02e592e67896172429b648e2a82f1fd1, type: 3}
+  m_Name: TeamTwo
+  m_EditorClassIdentifier: 
+  defaultLayerName: TeamTwo
+  defaultTeamName: Team Two
+  defaultLayerInt: 11
+  defaultTeam: 2
+  defaultColor: {r: 0.96862745, g: 0.24705882, b: 0.29641268, a: 1}
+  defaultAnimatorController: {fileID: 22100000, guid: 2c5a8febfab0c894abab777ecfad634b, type: 2}
+  uiOverrideController: {fileID: 22100000, guid: e58716ed3bc4802458f36df777c72a73, type: 2}
+  defaultTeamConfiguration:
+    teamName: TeamTwo
+    teamLayer: 11
+    teamFaction: 2
+    teamColor: {r: 0.96862745, g: 0.24705882, b: 0.29641268, a: 1}
+    playerAnimatorController: {fileID: 22100000, guid: 2c5a8febfab0c894abab777ecfad634b, type: 2}
+    playerUISpriteAnimatorController: {fileID: 22100000, guid: e58716ed3bc4802458f36df777c72a73, type: 2}

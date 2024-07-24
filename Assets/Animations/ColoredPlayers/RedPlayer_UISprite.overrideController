@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RedPlayer_UISprite
+  m_Controller: {fileID: 9100000, guid: eb16828182399364996cef1a045c5c1f, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: fd2949f729563b9408e68187dac85318, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 126f8f7fd27fd9b438537cfba3ec0015, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1af6f500e7964d54684784ce78554a9b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: de27699947f5e8f4c8995ee3c75cca20, type: 2}
